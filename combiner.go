@@ -17,6 +17,8 @@ func combine() {
 		log.Fatalf("Error reading directory: %v", err)
 	}
 
+	var allMatches []Match
+
 	for _, f := range files {
 		if !f.Type().IsRegular() || !strings.HasSuffix(f.Name(), ".json") {
 			continue
@@ -37,16 +39,16 @@ func combine() {
 			continue
 		}
 
-		if outputAsCSV {
-			if err := processCSVFile(matches); err != nil {
-				log.Printf("Error processing CSV file %s: %v", fp, err)
-				continue
-			}
-		} else {
-			if err := processJSONFile(matches); err != nil {
-				log.Printf("Error processing file %s: %v", fp, err)
-				continue
-			}
+		allMatches = append(allMatches, matches...)
+	}
+
+	if outputAsCSV {
+		if err := processCSVFile(allMatches); err != nil {
+			log.Printf("Error processing CSV file: %v", err)
+		}
+	} else {
+		if err := processJSONFile(allMatches); err != nil {
+			log.Printf("Error processing JSON file: %v", err)
 		}
 	}
 }
