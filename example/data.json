@@ -1,0 +1,3068 @@
+[
+    {
+        "id": 3636908,
+        "url": "/hockey/usa/nhl-2018-2019/boston-bruins-st-louis-blues-UDgSLaDe/",
+        "is-double": false,
+        "home": 9345528,
+        "away": 9345529,
+        "home-name": "Boston Bruins",
+        "away-name": "St. Louis Blues",
+        "home-country-two-chart-name": "us",
+        "away-country-two-chart-name": "us",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 67245,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 4,
+        "cols": "1|X|2",
+        "country-id": 200,
+        "country-name": "USA",
+        "country-two-chart-name": "us",
+        "country-type": "Country",
+        "tournament-id": 38264,
+        "tournament-name": "NHL 2018/2019",
+        "tournament-url": "nhl-2018-2019",
+        "home-participant-images": [
+            "/serve/images/team-logo/Men/xAdRiQkQ-0jUXnpeI.png?241028120139"
+        ],
+        "away-participant-images": [
+            "/serve/images/team-logo/Men/ARp4odRc-AkTcFJOs.png?241028120139"
+        ],
+        "sport-url-name": "hockey",
+        "breadcrumbs": {
+            "sport": {
+                "name": "Hockey",
+                "url": "/hockey/"
+            },
+            "country": {
+                "name": "USA",
+                "url": "/hockey/usa/"
+            },
+            "tournament": {
+                "name": "NHL 2018/2019",
+                "url": "/hockey/usa/nhl-2018-2019/"
+            }
+        },
+        "encodeEventId": "UDgSLaDe",
+        "colClassName": "datet t1560384000-2-0-0-1",
+        "homeParticipantTypes": [
+            1
+        ],
+        "awayParticipantTypes": [
+            1
+        ],
+        "date-start-base": 1560384000,
+        "date-start-timestamp": 1560384000,
+        "result": "1:4",
+        "homeResult": "1",
+        "awayResult": "4",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "partialresult": "0:2, 0:0, 1:2",
+        "bookmakersCount": 6,
+        "winner_post": 2,
+        "betting_type": 0,
+        "odds": [
+            {
+                "avgOdds": 1.87,
+                "bettingTypeId": 1,
+                "eventId": 3636908,
+                "maxOdds": 1.95,
+                "outcomeResultId": 2,
+                "scopeId": 2,
+                "outcomeId": "3evlcxv464x0x8t6fo",
+                "maxOddsProviderId": 5,
+                "active": true
+            },
+            {
+                "avgOdds": 4.03,
+                "bettingTypeId": 1,
+                "eventId": 3636908,
+                "maxOdds": 4.2,
+                "outcomeResultId": 2,
+                "scopeId": 2,
+                "outcomeId": "3evlcxv498x0x0",
+                "maxOddsProviderId": 15,
+                "active": true
+            },
+            {
+                "avgOdds": 3.61,
+                "bettingTypeId": 1,
+                "eventId": 3636908,
+                "maxOdds": 4,
+                "outcomeResultId": 1,
+                "scopeId": 2,
+                "outcomeId": "3evlcxv464x0x8t6fp",
+                "maxOddsProviderId": 16,
+                "active": true
+            }
+        ],
+        "odds_data": {
+            "1X2": [
+                {
+                    "bookmaker": "1xBet",
+                    "line": "1X2",
+                    "payout": 0.9656446074813951,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.89,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "X",
+                            "odd": 4.14,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.72,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet-at-home",
+                    "line": "1X2",
+                    "payout": 0.9630899172431653,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.88,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "X",
+                            "odd": 3.97,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.63,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "1X2",
+                    "payout": 0.9643874643874644,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.8,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "X",
+                            "odd": 3.9,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 4,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "1X2",
+                    "payout": 0.9623687020494945,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.95,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "X",
+                            "odd": 3.95,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.45,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "William Hill",
+                    "line": "1X2",
+                    "payout": 0.9599671730819271,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.83,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "X",
+                            "odd": 4.2,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.25,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                }
+            ],
+            "AH-FT": [
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-4.5",
+                    "payout": 0.9299719887955182,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 14,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.02,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-3.5",
+                    "payout": 0.8856881572930956,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 8.1,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.08,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "-3.5",
+                    "payout": 0.8787878787878788,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 7.5,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.1,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-3",
+                    "payout": 0.8533724340175953,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 6.2,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.1,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "-3",
+                    "payout": 0.8613998613998615,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 6.5,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.11,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-2.5",
+                    "payout": 0.7824857528168095,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.62,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.27,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "-2.5",
+                    "payout": 0.7922077922077921,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.85,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.25,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-2",
+                    "payout": 0.7679383644295925,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.24,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.33,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "-2",
+                    "payout": 0.7770345596432553,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.45,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.3,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-1.75",
+                    "payout": 0.7545952047903015,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.89,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.41,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-1.5",
+                    "payout": 0.7366688610928243,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.45,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.55,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "-1.5",
+                    "payout": 0.7469955724225174,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.55,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.55,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-1.25",
+                    "payout": 0.7322982197831616,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.41,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.55,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-1",
+                    "payout": 0.7378768020969856,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.18,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.75,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "-1",
+                    "payout": 0.7325631151048353,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.28,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.64,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-0.75",
+                    "payout": 0.723833195249931,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.13,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.7,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "-0.5",
+                    "payout": 0.7369874543015702,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.93,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.97,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "-0.25",
+                    "payout": 0.7358410819949281,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.82,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.08,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "0",
+                    "payout": 0.7528972793990462,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.43,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.83,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+0.25",
+                    "payout": 0.7622387598373713,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.37,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.07,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+0.5",
+                    "payout": 0.7927031509121062,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.34,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.6,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+0.75",
+                    "payout": 0.7927461139896373,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.25,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.86,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+1",
+                    "payout": 0.8292932741550016,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.16,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 5.05,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+1",
+                    "payout": 0.8249299719887955,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.19,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 4.8,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+1.5",
+                    "payout": 0.8375568551007148,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.14,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 5.4,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+1.5",
+                    "payout": 0.8371998371998373,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.17,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 5.25,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+2",
+                    "payout": 0.8640842677539926,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.09,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 6.75,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+2",
+                    "payout": 0.8787878787878788,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.1,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 7.5,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+2.5",
+                    "payout": 0.8812915479582146,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.08,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 7.8,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+2.5",
+                    "payout": 0.8920669185105234,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.09,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 8.5,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+3.5",
+                    "payout": 0.9273783587509078,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.02,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 13.5,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                }
+            ],
+            "AH-ML": [
+                {
+                    "bookmaker": "bet365",
+                    "line": "-1.5",
+                    "payout": 0.750218558761084,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.55,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.57,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "-1.5",
+                    "payout": 0.7521623832065231,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.57,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.57,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "William Hill",
+                    "line": "-1.5",
+                    "payout": 0.7549620191129625,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.65,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.54,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "-1.25",
+                    "payout": 0.742380915578226,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.27,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.71,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "-1",
+                    "payout": 0.7370082053439933,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.96,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.94,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "-0.75",
+                    "payout": 0.7416020671834626,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.72,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.25,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+1.5",
+                    "payout": 0.8366013071895424,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.2,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 5.1,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                }
+            ],
+            "BTTS": [
+                {
+                    "bookmaker": "1xBet",
+                    "line": "BTTS",
+                    "payout": 0.823477493380406,
+                    "oddsData": [
+                        {
+                            "lineValue": "Yes",
+                            "odd": 1.1,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "No",
+                            "odd": 5.15,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "BTTS",
+                    "payout": 0.8446722584653619,
+                    "oddsData": [
+                        {
+                            "lineValue": "Yes",
+                            "odd": 1.11,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "No",
+                            "odd": 5.8,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "William Hill",
+                    "line": "BTTS",
+                    "payout": 0.8169336384439359,
+                    "oddsData": [
+                        {
+                            "lineValue": "Yes",
+                            "odd": 1.15,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "No",
+                            "odd": 4.75,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                }
+            ],
+            "DC": [
+                {
+                    "bookmaker": "1xBet",
+                    "line": "DC",
+                    "payout": 0.6867903844648031,
+                    "oddsData": [
+                        {
+                            "lineValue": "1X",
+                            "odd": 1.29,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "12",
+                            "odd": 1.25,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "X2",
+                            "odd": 1.98,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet-at-home",
+                    "line": "DC",
+                    "payout": 0.5850601745734834,
+                    "oddsData": [
+                        {
+                            "lineValue": "1X",
+                            "odd": 1.22,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "12",
+                            "odd": 1.19,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "X2",
+                            "odd": 1.66,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "DC",
+                    "payout": 0.6503190838359998,
+                    "oddsData": [
+                        {
+                            "lineValue": "1X",
+                            "odd": 1.23,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "12",
+                            "odd": 1.25,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "X2",
+                            "odd": 1.86,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "DC",
+                    "payout": 0.6574788801477499,
+                    "oddsData": [
+                        {
+                            "lineValue": "1X",
+                            "odd": 1.29,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "12",
+                            "odd": 1.23,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "X2",
+                            "odd": 1.84,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "William Hill",
+                    "line": "DC",
+                    "payout": 0.658696082513635,
+                    "oddsData": [
+                        {
+                            "lineValue": "1X",
+                            "odd": 1.3,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "12",
+                            "odd": 1.18,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "X2",
+                            "odd": 1.91,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                }
+            ],
+            "DNB": [
+                {
+                    "bookmaker": "Unibet",
+                    "line": "DNB",
+                    "payout": 0.7395697692588156,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.46,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.63,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "William Hill",
+                    "line": "DNB",
+                    "payout": 0.7349448685326547,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.44,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.62,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                }
+            ],
+            "ML": [
+                {
+                    "bookmaker": "bet365",
+                    "line": "ML",
+                    "payout": 0.7518610421836228,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.55,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.6,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "ML",
+                    "payout": 0.7527689873417722,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.58,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.56,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "ML",
+                    "payout": 0.7436883250032039,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.53,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.55,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "William Hill",
+                    "line": "ML",
+                    "payout": 0.7534516765285996,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.56,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.6,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                }
+            ],
+            "OU-FT": [
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+1.5",
+                    "payout": 0.9569522169608266,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.01,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 23,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+2",
+                    "payout": 0.9533146591970122,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.02,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 21,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+2.5",
+                    "payout": 0.8484848484848485,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.1,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 6,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+2.5",
+                    "payout": 0.8787878787878788,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.1,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 7.5,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+3",
+                    "payout": 0.8419721871049305,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.13,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 5.6,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+3",
+                    "payout": 0.8677248677248677,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.12,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 6.75,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+3.5",
+                    "payout": 0.7793079096045198,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.28,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.54,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+3.5",
+                    "payout": 0.8033044846577497,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.24,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 4.1,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+4",
+                    "payout": 0.7598924318094507,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.37,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.04,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+4",
+                    "payout": 0.7755582987319044,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.33,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.35,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+4.5",
+                    "payout": 0.7370151216305063,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.69,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.25,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet-at-home",
+                    "line": "+4.5",
+                    "payout": 0.7137705011878523,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.61,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.17,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+4.5",
+                    "payout": 0.7309223980195888,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.63,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.28,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+5",
+                    "payout": 0.7199820788530467,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.92,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.86,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+5",
+                    "payout": 0.7243964281777091,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.88,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.93,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+5.5",
+                    "payout": 0.7414550907492632,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.33,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.66,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet-at-home",
+                    "line": "+5.5",
+                    "payout": 0.7159090909090909,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.2,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.6,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+5.5",
+                    "payout": 0.7314787465427889,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.23,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.67,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+6",
+                    "payout": 0.7517255077213367,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.94,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.37,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+6",
+                    "payout": 0.7624138750296983,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.05,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.38,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+6.5",
+                    "payout": 0.7692875599852343,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.36,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.29,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet-at-home",
+                    "line": "+6.5",
+                    "payout": 0.7667910447761195,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.35,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.28,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+6.5",
+                    "payout": 0.7876181374110651,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.65,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.29,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+7",
+                    "payout": 0.8204022988505747,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 4.8,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.16,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+7",
+                    "payout": 0.8387356877922916,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 5.3,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.17,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+7.5",
+                    "payout": 0.828001375988992,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 5.1,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.14,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet-at-home",
+                    "line": "+7.5",
+                    "payout": 0.8281639316092447,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 5.15,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.13,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+7.5",
+                    "payout": 0.8487598306110102,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 5.8,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.14,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+8",
+                    "payout": 0.886026897652154,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 8.2,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.07,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+8",
+                    "payout": 0.9101527403414196,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 10.5,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.06,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+8.5",
+                    "payout": 0.8927958833619212,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 8.8,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.06,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Unibet",
+                    "line": "+8.5",
+                    "payout": 0.917184265010352,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 11.5,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.05,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "1xBet",
+                    "line": "+9.5",
+                    "payout": 0.9323867478025694,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 14.5,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.02,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                }
+            ],
+            "OU-ML": [
+                {
+                    "bookmaker": "bet365",
+                    "line": "+1.5",
+                    "payout": 0.9387254901960784,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.02,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 16,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "+2.5",
+                    "payout": 0.9198717948717949,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.04,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 12,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "+3.5",
+                    "payout": 0.7938569367140795,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.26,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 3.85,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+4.25",
+                    "payout": 0.7459994919989841,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.55,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.54,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "+4.5",
+                    "payout": 0.7383568812140241,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.47,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.6,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+4.5",
+                    "payout": 0.742798353909465,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.6,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.43,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+4.75",
+                    "payout": 0.7375741353067758,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.74,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.19,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "+5",
+                    "payout": 0.7289972899728997,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.8,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.05,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+5",
+                    "payout": 0.7376016793492521,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.85,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2.06,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "William Hill",
+                    "line": "+5",
+                    "payout": 0.726775956284153,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 1.83,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 2,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+5.25",
+                    "payout": 0.736952861952862,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.16,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.76,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "+5.5",
+                    "payout": 0.7289605637620273,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.35,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.57,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+5.5",
+                    "payout": 0.7427189461768036,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.46,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.58,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "William Hill",
+                    "line": "+5.5",
+                    "payout": 0.7464824439092408,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.45,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.61,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+5.75",
+                    "payout": 0.7500937148569287,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.65,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.51,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+6",
+                    "payout": 0.758861827827345,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 2.9,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.43,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+6.25",
+                    "payout": 0.7641231277273264,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.05,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.39,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "+6.5",
+                    "payout": 0.7650375939849624,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.2,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.33,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+6.5",
+                    "payout": 0.7695002765996681,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.19,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.36,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+6.75",
+                    "payout": 0.7953168495169478,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 3.94,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.24,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "+7.5",
+                    "payout": 0.8511904761904762,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 6,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.12,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "Pinnacle",
+                    "line": "+7.5",
+                    "payout": 0.8410023213661081,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 5.33,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.18,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "+8.5",
+                    "payout": 0.9056603773584906,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 10,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.06,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                },
+                {
+                    "bookmaker": "bet365",
+                    "line": "+9.5",
+                    "payout": 0.9387254901960784,
+                    "oddsData": [
+                        {
+                            "lineValue": "1",
+                            "odd": 16,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        },
+                        {
+                            "lineValue": "2",
+                            "odd": 1.02,
+                            "openingOdd": {
+                                "date": "",
+                                "odds": 0
+                            },
+                            "oddsHistory": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "name": "Boston Bruins - St. Louis Blues",
+        "colClassNameTime": "datet t1560384000-1-1-0-0"
+    }
+]
